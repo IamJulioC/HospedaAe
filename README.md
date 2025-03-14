@@ -10,7 +10,7 @@ Este projeto é um desafio de programação que simula um sistema de reserva de 
 * Cálculo do valor total da reserva com descontos para reservas de longa duração (10% para mais de 10 dias, 12% para mais de 30 dias).
 * Validação da capacidade da suíte ao cadastrar hóspedes.
 
-###Contribua
+### Contribua
 
 Contribuições são sempre bem-vindas! Se você tiver ideias para melhorias, correções de bugs ou novas funcionalidades, siga estas etapas:
 
